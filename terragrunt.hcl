@@ -22,4 +22,3 @@ inputs = {
   })
   target_id = "ou-xxxx-xxxxxxxx"  # Replace with your OU or Account ID
 }
-
